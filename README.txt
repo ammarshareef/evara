@@ -1,6 +1,5 @@
-THEME: Atlantis - Free Bootstrap Theme
-AUTHOR: uiCookies.com
-AUTHOR URI: https://uicookies.com/
+THEME: Evara Suites
+AUTHOR: Ammar
 
 
 CREDITS:
